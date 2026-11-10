@@ -18,3 +18,5 @@ Login con hash+sal y roles · mantenedor de pacientes (CUS02) · consulta de lot
 CUS03/04/05/07 mantenedores · CUS08–CUS15 formularios CORE · CUS16–CUS19 consultas y reportes.
 
 #mau
+
+#activo
